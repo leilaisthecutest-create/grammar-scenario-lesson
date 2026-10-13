@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grammar Scenario Lesson"
+  short_description: "Build meaning-first interactive grammar scenarios"
+  brand_color: "#6D4AFF"
+  default_prompt: "Use $grammar-scenario-lesson to turn a grammar target into a scenario-based interactive lesson website."
